@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">دفتر طبي</string>
+    <string name="show">عرض</string>
+    <string name="insert_disease_name">ادخل اسم المرض</string>
+    <string name="medicine_name">ادخل اسم العلاج</string>
+    <string name="insert_details">ادخل بعض التفاصيل</string>
+    <string name="save">حفظ</string>
+    <string name="Save_Information">حفظ معلومات</string>
+    <string name="update">تحديث</string>
+
+    <string name="name_disease"> اسم المرض :  </string>
+    <string name="name_medicine">اسم العلاج :  </string>
+    <string name="details">التفاصيل :  </string>
+
+    <string name="menu_google">جوجال</string>
+    <string name="menu_setting">الاعدادات</string>
+
+    <string name="name_disease_null">لا يوجد اسم</string>
+    <string name="name_medicine_null">لا يوجد دواء</string>
+    <string name="details_null">لا يوجد تفاصيل</string>
+
+</resources>

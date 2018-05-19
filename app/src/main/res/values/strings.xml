@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">SQLite Database</string>
+    <string name="app_name">Medical Notebook</string>
+    <string name="insert_disease_name"> Write the name of the disease</string>
+    <string name="medicine_name"> Write the name of the medecine</string>
+    <string name="insert_details"> Write some of details</string>
+    <string name="save">Save</string>
+    <string name="Save_Information">Save Information</string>
+    <string name="show">Show</string>
+    <string name="update">Update</string>
+
+    <string name="name_disease">  name of the disease :   </string>
+    <string name="name_medicine">  name of the medecine :  </string>
+    <string name="details">  details :  </string>
+
+    <string name="menu_google">Google</string>
+    <string name="menu_setting">Setting</string>
+
+    <string name="name_disease_null">no data</string>
+    <string name="name_medicine_null">no data</string>
+    <string name="details_null">no data</string>
+
 </resources>
